@@ -1,0 +1,8 @@
+
+Notes：
+1. The code can process multiple channel physiological sinal and multiple categories classification;
+2. Please only edit the channel of singal and quantity of categories when you process different researches;
+3. Please put the data to the af_data folder and check the data format meeting with PhysioNet mat format (for example, PhysioNet Challenge 2017);
+
+
+4. Please run the matlab code first. When the divided data has been prepared, you can run the python script.
